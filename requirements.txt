@@ -1,0 +1,5 @@
+# Emergency Vehicle Routing Project Dependencies
+# Standard libraries (Python 3.6+)
+socket
+time
+heapq
